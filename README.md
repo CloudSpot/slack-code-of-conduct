@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The "imgix-community" Slack chat room should be a safe place for everyone, regardless of
+The "cloudspot-beta" Slack chat room should be a safe place for everyone, regardless of
 
 - gender, gender identity, or gender expression
 - sexual orientation
@@ -47,6 +47,7 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let an operator know. Here is a list of the current operators and their Slack IDs:**
 
-* Paul Straw - @paulstraw
+* Gavin Wade - @gavin_wade
+* Oleg Aleynik - @oaleynik
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the chat room unless it is required as a result of a discussed dispute.*
